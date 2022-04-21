@@ -1,2 +1,2 @@
-# usermanager-api
-A user mock API using Mockend
+# User Manager API (mock)
+A user mock API using [Mockend](https://mockend.com)
